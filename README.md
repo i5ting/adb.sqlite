@@ -11,13 +11,13 @@
 
 ## Usage
 
-打开当前目录
+download all db
 
 ```
   adbdb
 ```
 
-打开某个文件
+downlaod some db
 
 ```
   adbdb com.example.sang.helloworld
