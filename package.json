@@ -1,0 +1,23 @@
+{
+  "name": "adb.sqlite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "adbdb": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/i5ting/adb.sqlite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i5ting/adb.sqlite/issues"
+  },
+  "homepage": "https://github.com/i5ting/adb.sqlite"
+}
