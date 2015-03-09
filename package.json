@@ -1,9 +1,10 @@
 {
-  "name": "adb.sqlite",
+  "name": "adbdb",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start":"npm publish .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "preferGlobal": "true",
